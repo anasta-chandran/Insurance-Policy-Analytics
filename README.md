@@ -57,3 +57,15 @@ Data Analysis | Business Intelligence | Data Visualization | SQL | Python | Exce
 Business & Data Analytics Enthusiast
 
 [GitHub Profile](https://github.com/anasta-chandran)
+
+## 📊 Dashboard Previews
+
+### 1. Excel Dashboard
+![Excel Dashboard](Insurance%20Policy%20Excel%20Dashboard.png)
+
+### 2. Power BI Dashboard
+![Power BI Dashboard](Insurance%20Policy%20Power%20BI%20Dashboard.png)
+
+### 3. Tableau Dashboard
+![Tableau Dashboard](Insurance%20Policy%20Tableau%20Dashboard.png)
+
